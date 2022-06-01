@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperDemo", "DapperDemo\DapperDemo.csproj", "{FC30B3FA-97FA-45F5-BAFA-9AB0FA09EA95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{57D5C183-7A48-4471-BA50-0A1705869002}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC30B3FA-97FA-45F5-BAFA-9AB0FA09EA95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC30B3FA-97FA-45F5-BAFA-9AB0FA09EA95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC30B3FA-97FA-45F5-BAFA-9AB0FA09EA95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC30B3FA-97FA-45F5-BAFA-9AB0FA09EA95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57D5C183-7A48-4471-BA50-0A1705869002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D5C183-7A48-4471-BA50-0A1705869002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D5C183-7A48-4471-BA50-0A1705869002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D5C183-7A48-4471-BA50-0A1705869002}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4C061FC-1F0C-4504-A939-C79396E4C9C7}
+	EndGlobalSection
+EndGlobal
